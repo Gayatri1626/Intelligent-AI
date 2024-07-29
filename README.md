@@ -1,4 +1,4 @@
-# Intelligent-AI-
+# Intelligent-AI
 
 Run the file voice_gpt.py to get the results.
 
