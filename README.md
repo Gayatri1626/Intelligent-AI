@@ -7,4 +7,4 @@ The four functionalities are added in the code - Intelligent Q&A,Resume  Generat
 Can update the code accordingly and make the model more robust
 
 The view of the Interface :
-![image](https://github.com/user-attachments/assets/e6d7f761-b83b-4405-9f81-8d12c178deb1)
+![image](https://github.com/user-attachments/assets/08a19165-41e1-45e0-a0ad-90c99f26c746)
